@@ -1,2 +1,3 @@
 # spring-boot-template
-暂时还没想好😂 
+重点：MyBatis-Plus, *.yml
+
